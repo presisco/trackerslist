@@ -1,0 +1,5 @@
+udp://IPv6.open-internet.nl:6969/announce
+
+udp://ipv6.tracker.harry.lu:80/announce
+
+http://tracker.ipv6tracker.ru/announce
